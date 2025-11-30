@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats (dark theme)
+## 📊 GitHub Stats
 
 <div align="center">
 
