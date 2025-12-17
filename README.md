@@ -28,7 +28,7 @@
 
 ![Sebastian's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BSebastianGonzalez&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BSebastianGonzalez&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsebastiangonzalez&theme=tokyonight)
 
 </div>
 
