@@ -26,9 +26,9 @@
 
 <div align="center">
 
-![Sebastian's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={BSebastianGonzalez}&theme={tokyonight})
+![Sebastian's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BSebastianGonzalez&theme=tokyonight)
 
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={BSebastianGonzalez}&theme={tokyonight})
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BSebastianGonzalez&theme=tokyonight)
 
 </div>
 
