@@ -26,9 +26,9 @@
 
 <div align="center">
 
-![Sebastian's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BSebastianGonzalez&show_icons=true&theme=tokyonight&hide_border=true)
+![Sebastian's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={BSebastianGonzalez}&theme={tokyonight})
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsebastiangonzalez&theme=tokyonight)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={BSebastianGonzalez}&theme={tokyonight})
 
 </div>
 
