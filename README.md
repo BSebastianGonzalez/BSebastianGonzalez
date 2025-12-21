@@ -1,11 +1,12 @@
-# 👋 Hello, I'm Sebastian Gonzalez
+👋 Hello, I'm Sebastian Gonzalez  
 
-Backend Developer with full-stack experience
+Backend Developer with full-stack experience  
 
 - 🎓 Systems Engineering student at Universidad Francisco de Paula Santander  
 - 🔒 Focused on backend development, microservices and cybersecurity fundamentals  
 - ⚙️ Comfortable working across different project domains and tech stacks  
-- 💪 Fast learner, adaptable, and committed to continuous improvement 
+- 💪 Fast learner, adaptable, and committed to continuous improvement  
+
 
 ---
 
