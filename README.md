@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Sebastian Gonzalez
 
-**Backend Developer** with Full-Stack knowledge  
-🎓 Currently studying **Systems Engineering** at *Universidad Francisco de Paula Santander*  
-🔒 Passionate about **backend development** and **cybersecurity**  
-⚙️ I don't limit myself to a specific project type — I enjoy adapting to any challenge  
-💪 My strongest trait is **adaptability**: I integrate fast and learn on the job
+Backend Developer with full-stack experience
+🎓 Systems Engineering student at Universidad Francisco de Paula Santander
+🔒 Focused on backend development, microservices and cybersecurity fundamentals
+⚙️ Comfortable working across different project domains and tech stacks
+💪 Fast learner, adaptable, and committed to continuous improvement
 
 ---
 
