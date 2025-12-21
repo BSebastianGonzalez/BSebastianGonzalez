@@ -2,10 +2,7 @@
 
 Backend Developer with full-stack experience  
 
-🎓 Systems Engineering student at Universidad Francisco de Paula Santander <br>
-🔒 Focused on backend development, microservices and cybersecurity fundamentals <br>
-⚙️ Comfortable working across different project domains and tech stacks <br>
-💪 Fast learner, adaptable, committed to continuous improvement  
+🎓 Systems Engineering student at Universidad Francisco de Paula Santander <br>🔒 Focused on backend development, microservices and cybersecurity fundamentals <br>⚙️ Comfortable working across different project domains and tech stacks <br>💪 Fast learner, adaptable, committed to continuous improvement  
 
 
 ---
