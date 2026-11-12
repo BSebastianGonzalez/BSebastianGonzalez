@@ -62,4 +62,4 @@ A pharmacy management frontend with interfaces for customers, administrators and
 ## 🔗 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-sebastian-gonz%C3%A1lez-gonz%C3%A1lez-2b9298328/)  
-📧 **Email:** bsgonzalez14a@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsgonzalez14a@gmail.com)
