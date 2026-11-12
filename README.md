@@ -32,22 +32,32 @@ Backend systems, REST APIs and microservice-based applications with Java and Spr
 
 A web platform for the university community to submit anonymous complaints, attach evidence and track case status through secure follow-up tokens. Includes an administrative panel for classification, assignment, comments, auditing, password recovery and statistics.
 
-**Technologies:** Java 21 · Spring Boot · MySQL · React · Vite · Tailwind CSS · Cloudinary · SendGrid  
-**Repositories:** [Backend](https://github.com/BSebastianGonzalez/pdau-be) · [Frontend](https://github.com/BSebastianGonzalez/pdau-fe)
+**Technologies:** Java 21 · Spring Boot · MySQL · React · Vite · Tailwind CSS · Cloudinary · SendGrid<br>
+**Repositories:** [Monolithic Backend](https://github.com/BSebastianGonzalez/pdau-be) · [Frontend](https://github.com/BSebastianGonzalez/pdau-fe)<br>
+**Live demos:** [Monolithic Platform](https://pdau-fe.vercel.app) · [Microservices Frontend](https://micro-pdau.vercel.app)
+
+#### Microservices evolution
+
+I also designed and documented a microservices-based evolution of PDAU. The backend separates authentication, anonymous complaint registration, complaint management, operational reports, audit reports, API Gateway and service discovery into independent Spring Boot services. This architecture introduces service-owned databases, Eureka-based discovery and RabbitMQ event-driven communication while preserving the original platform's core workflows.
+
+**Technologies:** Java 21 · Spring Boot · Spring Cloud Gateway · Netflix Eureka · MySQL · RabbitMQ · Spring Security/JWT · Cloudinary · SendGrid<br>
+**Repository:** [PDAU Microservices Documentation](https://github.com/BSebastianGonzalez/pdau-microservices)
 
 ### 📊 Consodig Consultores | Project Evaluation System
 
 A modular backend system for managing consulting projects and structured evaluations. Supports role-based profiles for administrators, evaluators and evaluatees, project evidence, configurable evaluation forms, weighted criteria, assignments, scoring, observations, validation and notifications.
 
-**Technologies:** Java 21 · Spring Boot · Spring Data JPA · MySQL · BCrypt · Cloudinary · SendGrid · Thymeleaf  
-**Repositories:** [Project Management](https://github.com/BSebastianGonzalez/cc_project_management) · [Authentication](https://github.com/BSebastianGonzalez/cc_authentication)
+**Technologies:** Java 21 · Spring Boot · Spring Data JPA · MySQL · BCrypt · Cloudinary · SendGrid · Thymeleaf<br>
+**Repositories:** [Project Management](https://github.com/BSebastianGonzalez/cc_project_management) · [Authentication](https://github.com/BSebastianGonzalez/cc_authentication)<br>
+**Live demo:** [Consodig Consultores](https://consodigconsultores.vercel.app/login)
 
 ### 💊 Nueva Esperanza Pharmacy | Frontend Contributor
 
 A pharmacy management frontend with interfaces for customers, administrators and employees. Includes product catalog, inventory and batch management, sales and returns, suppliers, low-stock alerts, QR/barcode scanning, dashboards, forecasting and real-time updates.
 
-**Technologies:** React 19 · Vite · JavaScript · Tailwind CSS · shadcn/Radix UI · Axios · Socket.IO · Recharts · Vitest  
-**Repository:** [Pharmacy Frontend](https://github.com/omarmolina23/farmacia_fe)
+**Technologies:** React 19 · Vite · JavaScript · Tailwind CSS · shadcn/Radix UI · Axios · Socket.IO · Recharts · Vitest<br>
+**Repository:** [Pharmacy Frontend](https://github.com/omarmolina23/farmacia_fe)<br>
+**Live demo:** [Droguería Nueva Esperanza](https://www.drogueriane.store)
 
 ---
 
